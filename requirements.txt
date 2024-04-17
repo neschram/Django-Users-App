@@ -1,0 +1,5 @@
+# requirements.txt
+
+django~=5.0
+python-dateutil~=2.9
+django-phonenumber-field~=7.3
