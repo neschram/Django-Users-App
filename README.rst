@@ -10,7 +10,7 @@ Quick-Start
 
 1. Import the app::
 
-    python -m pip install sbxt_accounts
+    python -m pip install ./sbxt_accounts
 
 2. Add "accounts" to your INSTALLED_APPS settings::
 
